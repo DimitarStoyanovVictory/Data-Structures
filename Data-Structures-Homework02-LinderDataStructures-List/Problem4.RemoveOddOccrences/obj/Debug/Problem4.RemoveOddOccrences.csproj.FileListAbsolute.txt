@@ -1,0 +1,1 @@
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem4.RemoveOddOccrences\bin\Debug\Problem4.RemoveOddOccrences.exe.config

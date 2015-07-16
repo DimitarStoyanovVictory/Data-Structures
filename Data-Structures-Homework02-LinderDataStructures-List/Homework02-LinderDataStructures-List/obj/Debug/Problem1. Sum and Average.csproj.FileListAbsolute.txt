@@ -1,0 +1,3 @@
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\bin\Debug\Homework02-LinderDataStructures-List.exe.config
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Homework02-LinderDataStructures-List.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Homework02-LinderDataStructures-List.pdb

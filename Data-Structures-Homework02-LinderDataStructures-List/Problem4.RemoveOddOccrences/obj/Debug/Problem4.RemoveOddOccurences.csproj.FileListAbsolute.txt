@@ -1,0 +1,5 @@
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem4.RemoveOddOccrences\bin\Debug\Problem4.RemoveOddOccrences.exe.config
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem4.RemoveOddOccrences\bin\Debug\Problem4.RemoveOddOccrences.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem4.RemoveOddOccrences\bin\Debug\Problem4.RemoveOddOccrences.pdb
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem4.RemoveOddOccrences\obj\Debug\Problem4.RemoveOddOccrences.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem4.RemoveOddOccrences\obj\Debug\Problem4.RemoveOddOccrences.pdb

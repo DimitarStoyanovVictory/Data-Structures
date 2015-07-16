@@ -1,0 +1,12 @@
+C:\VSProjects\Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Problem 1. Sum and Average.csprojResolveAssemblyReference.cache
+C:\VSProjects\Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\bin\Debug\Homework02-LinderDataStructures-List.exe.config
+C:\VSProjects\Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\bin\Debug\Homework02-LinderDataStructures-List.exe
+C:\VSProjects\Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\bin\Debug\Homework02-LinderDataStructures-List.pdb
+C:\VSProjects\Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Homework02-LinderDataStructures-List.exe
+C:\VSProjects\Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Homework02-LinderDataStructures-List.pdb
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\bin\Debug\Homework02-LinderDataStructures-List.exe.config
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Homework02-LinderDataStructures-List.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Homework02-LinderDataStructures-List.pdb
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\bin\Debug\Homework02-LinderDataStructures-List.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\bin\Debug\Homework02-LinderDataStructures-List.pdb
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Homework02-LinderDataStructures-List\obj\Debug\Problem 1. Sum and Average.csprojResolveAssemblyReference.cache

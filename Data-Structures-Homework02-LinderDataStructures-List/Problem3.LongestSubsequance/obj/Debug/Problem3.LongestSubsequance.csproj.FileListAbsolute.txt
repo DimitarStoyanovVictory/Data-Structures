@@ -1,0 +1,6 @@
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem3.LongestSubsequance\bin\Debug\Problem3.LongestSubsequance.exe.config
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem3.LongestSubsequance\bin\Debug\Problem3.LongestSubsequance.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem3.LongestSubsequance\bin\Debug\Problem3.LongestSubsequance.pdb
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem3.LongestSubsequance\obj\Debug\Problem3.LongestSubsequance.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem3.LongestSubsequance\obj\Debug\Problem3.LongestSubsequance.pdb
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem3.LongestSubsequance\obj\Debug\Problem3.LongestSubsequance.csprojResolveAssemblyReference.cache

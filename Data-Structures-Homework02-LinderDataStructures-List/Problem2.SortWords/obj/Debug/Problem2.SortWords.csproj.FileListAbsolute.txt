@@ -1,0 +1,5 @@
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem2.SortWords\bin\Debug\Problem2.SortWords.exe.config
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem2.SortWords\bin\Debug\Problem2.SortWords.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem2.SortWords\bin\Debug\Problem2.SortWords.pdb
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem2.SortWords\obj\Debug\Problem2.SortWords.exe
+C:\VSProjects\Data-Structures-Homework02-LinderDataStructures-List\Problem2.SortWords\obj\Debug\Problem2.SortWords.pdb
