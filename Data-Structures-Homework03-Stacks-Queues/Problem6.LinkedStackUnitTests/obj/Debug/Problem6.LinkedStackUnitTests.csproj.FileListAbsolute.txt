@@ -1,0 +1,7 @@
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem6.LinkedStackUnitTests\obj\Debug\Problem6.LinkedStackUnitTests.csprojResolveAssemblyReference.cache
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem6.LinkedStackUnitTests\bin\Debug\Problem6.LinkedStackUnitTests.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem6.LinkedStackUnitTests\bin\Debug\Problem6.LinkedStackUnitTests.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem6.LinkedStackUnitTests\bin\Debug\Problem5.LinkedStack.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem6.LinkedStackUnitTests\bin\Debug\Problem5.LinkedStack.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem6.LinkedStackUnitTests\obj\Debug\Problem6.LinkedStackUnitTests.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem6.LinkedStackUnitTests\obj\Debug\Problem6.LinkedStackUnitTests.pdb

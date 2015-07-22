@@ -1,0 +1,6 @@
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem 2. Calculate Sequence with a Queue\bin\Debug\Problem_2.Calculate_Sequence_with_a_Queue.exe.config
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem 2. Calculate Sequence with a Queue\bin\Debug\Problem_2.Calculate_Sequence_with_a_Queue.exe
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem 2. Calculate Sequence with a Queue\bin\Debug\Problem_2.Calculate_Sequence_with_a_Queue.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem 2. Calculate Sequence with a Queue\obj\Debug\Problem_2.Calculate_Sequence_with_a_Queue.exe
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem 2. Calculate Sequence with a Queue\obj\Debug\Problem_2.Calculate_Sequence_with_a_Queue.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem 2. Calculate Sequence with a Queue\obj\Debug\Problem2.CalculateSequenceWith AQueue.csprojResolveAssemblyReference.cache

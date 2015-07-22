@@ -1,0 +1,17 @@
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.abstractions.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.runner.utility.desktop.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.execution.desktop.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\Problem4.ArrayBasedStackUnitTests.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\Problem4.ArrayBasedStackUnitTests.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.assert.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.core.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\Problem_3.Implement_an_Array_Based_Stack.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.assert.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.assert.xml
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.core.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\xunit.core.xml
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\obj\Debug\Problem4.ArrayBasedStackUnitTests.csprojResolveAssemblyReference.cache
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\obj\Debug\Problem4.ArrayBasedStackUnitTests.dll
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\obj\Debug\Problem4.ArrayBasedStackUnitTests.pdb
+D:\VSProjects\Data-Structures-Homework03-Stacks-Queues\Problem4.ArrayBasedStackUnitTests\bin\Debug\Problem_3.Implement_an_Array_Based_Stack.dll
