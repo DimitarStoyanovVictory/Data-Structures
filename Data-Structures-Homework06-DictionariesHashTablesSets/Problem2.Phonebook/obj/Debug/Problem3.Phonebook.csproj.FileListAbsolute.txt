@@ -1,0 +1,3 @@
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem2.Phonebook\bin\Debug\Problem2.Phonebook.exe.config
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem2.Phonebook\obj\Debug\Problem2.Phonebook.exe
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem2.Phonebook\obj\Debug\Problem2.Phonebook.pdb

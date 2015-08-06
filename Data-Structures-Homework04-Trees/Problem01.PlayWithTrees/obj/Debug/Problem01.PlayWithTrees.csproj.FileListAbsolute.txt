@@ -1,0 +1,12 @@
+D:\VSProjects\Data-Structures-Homework03-Trees\Problem01.PlayWithTrees\bin\Debug\Problem01.PlayWithTrees.exe.config
+D:\VSProjects\Data-Structures-Homework03-Trees\Problem01.PlayWithTrees\bin\Debug\Problem01.PlayWithTrees.exe
+D:\VSProjects\Data-Structures-Homework03-Trees\Problem01.PlayWithTrees\bin\Debug\Problem01.PlayWithTrees.pdb
+D:\VSProjects\Data-Structures-Homework03-Trees\Problem01.PlayWithTrees\obj\Debug\Problem01.PlayWithTrees.csprojResolveAssemblyReference.cache
+D:\VSProjects\Data-Structures-Homework03-Trees\Problem01.PlayWithTrees\obj\Debug\Problem01.PlayWithTrees.exe
+D:\VSProjects\Data-Structures-Homework03-Trees\Problem01.PlayWithTrees\obj\Debug\Problem01.PlayWithTrees.pdb
+D:\VSProjects\Data-Structures-Homework04-Trees\Problem01.PlayWithTrees\bin\Debug\Problem01.PlayWithTrees.exe.config
+D:\VSProjects\Data-Structures-Homework04-Trees\Problem01.PlayWithTrees\obj\Debug\Problem01.PlayWithTrees.exe
+D:\VSProjects\Data-Structures-Homework04-Trees\Problem01.PlayWithTrees\obj\Debug\Problem01.PlayWithTrees.pdb
+D:\VSProjects\Data-Structures-Homework04-Trees\Problem01.PlayWithTrees\bin\Debug\Problem01.PlayWithTrees.exe
+D:\VSProjects\Data-Structures-Homework04-Trees\Problem01.PlayWithTrees\bin\Debug\Problem01.PlayWithTrees.pdb
+D:\VSProjects\Data-Structures-Homework04-Trees\Problem01.PlayWithTrees\obj\Debug\Problem01.PlayWithTrees.csprojResolveAssemblyReference.cache

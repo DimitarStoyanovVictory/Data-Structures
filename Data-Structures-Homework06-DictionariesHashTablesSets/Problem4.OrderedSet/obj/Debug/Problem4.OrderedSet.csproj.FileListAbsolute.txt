@@ -1,0 +1,6 @@
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem4.OrderedSet\bin\Debug\Problem4.OrderedSet.exe.config
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem4.OrderedSet\obj\Debug\Problem4.OrderedSet.csprojResolveAssemblyReference.cache
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem4.OrderedSet\bin\Debug\Problem4.OrderedSet.exe
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem4.OrderedSet\bin\Debug\Problem4.OrderedSet.pdb
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem4.OrderedSet\obj\Debug\Problem4.OrderedSet.exe
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem4.OrderedSet\obj\Debug\Problem4.OrderedSet.pdb

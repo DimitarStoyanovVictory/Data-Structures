@@ -1,0 +1,6 @@
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem1.Dictionary\obj\Debug\Problem1.Dictionary.csprojResolveAssemblyReference.cache
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem1.Dictionary\bin\Debug\Problem1.Dictionary.dll.config
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem1.Dictionary\bin\Debug\Problem1.Dictionary.dll
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem1.Dictionary\bin\Debug\Problem1.Dictionary.pdb
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem1.Dictionary\obj\Debug\Problem1.Dictionary.dll
+D:\VSProjects\Data-Structures-Homework06-DictionariesHashTablesSets\Problem1.Dictionary\obj\Debug\Problem1.Dictionary.pdb
